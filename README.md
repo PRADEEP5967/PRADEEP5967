@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me:
 - Email: [pradeepsahani8130s@gmail.com](mailto:pradeepsahani8130s@gmail.com)
-- LinkedIn: [Pradeep Sahani](https://www.linkedin.com/in/pradeep-sahani)
+- LinkedIn: [Pradeep Sahani](http://linkedin.com/in/pradeep-sahani-6a4a88264)
 - Facebook: [Pradeep Sahani](https://fb.com/pradeep.sahani)
 - Instagram: [official_pradeep_993](https://instagram.com/official_pradeep_993)
 - HackerRank: [pradeep@🦈](https://www.hackerrank.com/pradeep@🦈)
