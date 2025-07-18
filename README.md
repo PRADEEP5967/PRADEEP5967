@@ -181,7 +181,7 @@
 const pradeep = {
     role: "Full Stack Developer & AI Automation Engineer",
     location: "India 🇮🇳",
-    education: "B.Tech Computer Science (3rd Year)",
+    education: "B.Tech Computer Science (4rd Year)",
     experience: "1+ years in Software Development",
     currentFocus: [
         "AI Automation & Workflows", 
@@ -274,12 +274,6 @@ const pradeep = {
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=facebook&logoColor=white)
 
-### 🔧 MLOps & AI DevOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![ClearML](https://img.shields.io/badge/ClearML-009639?style=for-the-badge&logo=clearml&logoColor=white)
 
 ### 🧪 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -318,8 +312,7 @@ const pradeep = {
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
